@@ -171,7 +171,6 @@ MonoBehaviour:
   - {fileID: 970261510568871296, guid: 7aaf32789df0f43f09c1f89d9b889486, type: 3}
   - {fileID: 1991878256202849765, guid: 9d6c22782e70449a1a66242be08255bd, type: 3}
   - {fileID: 7553831734181692755, guid: 6e4a153b322be43ada8090d7f3ab2e67, type: 3}
-  animalIndex: 0
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -484,7 +483,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 31.891827
-  orthographic: 0
+  orthographic: 1
   orthographic size: 10
   m_Depth: -1
   m_CullingMask:
@@ -509,7 +508,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 3.7, y: 52.82, z: 13}
+  m_LocalPosition: {x: -0.51, y: 60.31, z: 10.6}
   m_LocalScale: {x: 1, y: 20, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
